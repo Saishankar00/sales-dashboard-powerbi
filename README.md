@@ -31,6 +31,16 @@ This project analyzes regional sales performance using **SQL** and **Power BI**.
 - DAX
 - Data Visualization
 - Business Intelligence
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+![Dashboard](dashboard-overview.png)
+
+### Sales Trend
+![Sales Trend](sales-trend.png)
+
+### Regional Analysis
+![Regional Analysis](regional-analysis.png)
 
 ## 👨‍💻 Author
 **Sai Shankar Yengla**
